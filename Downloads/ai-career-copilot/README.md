@@ -99,4 +99,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ by [Atharv Mohite](https://github.com/Atharvm05)
+Built with ❤️ by [Atharv Mahajan
+](https://github.com/Atharvm05)
