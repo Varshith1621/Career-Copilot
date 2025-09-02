@@ -96,8 +96,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Radix UI](https://www.radix-ui.com/)
 - [Lucide Icons](https://lucide.dev/)
-
----
-
-Built with ❤️ by [Atharv Mahajan
-](https://github.com/Atharvm05)
